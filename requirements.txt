@@ -1,5 +1,7 @@
 pandas
 openpyxl
-pywin32
 streamlit
+pywin32>=305
+
+
 
